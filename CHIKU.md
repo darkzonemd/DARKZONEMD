@@ -1,4 +1,4 @@
-<!-- Full Enhanced & Color-Boosted README (No Lines Missing , No Violations, Same Structure, Improved Colors, Fixed Deployment Section, Added Contact Not Available) -->
+<!-- Full Enhanced & Color-Boosted CHIKU (No Lines Missing , No Violations, Same Structure, Improved Colors, Fixed Deployment Section, Added Contact Not Available) -->
 
 <div align="center">
   <a>
@@ -9,7 +9,7 @@
 
 <div align="center">
   <h1 style="background-color:#4B0082; color:white; display:inline-block; padding:20px 40px; border-radius:10px; font-size:48px; font-family:Fira+Code; text-align:center;">
-    DARKZONE-MD WHATSAPP BOT
+    CHIKU-MD WHATSAPP BOT +8801851449907
   </h1>
 </div>
 
@@ -62,7 +62,7 @@
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
 <a href="https://github.com/darkzonemd/DARKZONE-MD/fork">
-  <img title="DARKZONE-MD" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
+  <img title="CHIKU-MD" src="https://img.shields.io/badge/FORK-CHIKU%20MD-FF00FF?style=for-the-badge&logo=stackshare">
 </a>
 
 ### 2. 𐃁GET SESSION ID𐃁
@@ -87,12 +87,12 @@
 
 ---
 
-### <h2 align="center">DARKZONE-MD DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="center">CHIKU-MD DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
 
-<p align="center">Deploy your <strong>DARKZONE-MD Bot</strong> on any hosting service of your choice.</p>
+<p align="center">Deploy your <strong>CHIKU-MD Bot</strong> on any hosting service of your choice.</p>
 
 <div align="center">
   <table>
@@ -123,7 +123,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/darkzonemd/DARKZONE-MD" target="_blank">
+      <a href="https://github.com/darkzonemd/CHIKU-MD" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/Deploy-On%20Workflow-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
@@ -143,7 +143,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/darkzonemd/DARKZONE-MD/archive/refs/heads/main.zip" target="_blank">
+      <a href="https://github.com/darkzonemd/CHIKU-MD/archive/refs/heads/main.zip" target="_blank">
         <img alt="Panel Zip File" src="https://img.shields.io/badge/View-Panel%20Codes-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -174,8 +174,8 @@
 
 ## 📞 Contact & Support
 
-### Project Owner: Erfan Ahmad
-<a href='https://wa.me/+923306137477?text=*HELLO+ERFAN+AHMAD+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DARKZONE-MD+ʀᴇᴘᴏ!!*' target="_blank">
+### Project Owner: CHIKU XHOWDHURY
+<a href='https://wa.me/+881645587004?text=*HELLO+ERFAN+AHMAD+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+CHIKU-MD+ʀᴇᴘᴏ!!*' target="_blank">
   <img alt='WhatsApp' src='https://img.shields.io/badge/Contact_Owner-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 
@@ -191,4 +191,62 @@
 
 
 ---
+╭━━━〔 🤖 BOT-CHIKU MENU 〕━━━⬣
+┃ 👑 Owner : 𝐂ʜɪᴋᴜ×͜×𝕏ʜᴏᴡᴅʜᴜʀʏ
+┃ 📞 Number : +8801851449907
+┃ ⚡ Prefix : .
+┃ 🌐 Mode : Public
+╰━━━━━━━━━━━━━━━━━━⬣
 
+╭━━━〔 📋 MAIN MENU 〕━━━⬣
+┃ .menu
+┃ .owner
+┃ .ping
+┃ .alive
+┃ .runtime
+┃ .uptime
+╰━━━━━━━━━━━━━━━━━━⬣
+
+╭━━━〔 👑 OWNER MENU 〕━━━⬣
+┃ .restart
+┃ .shutdown
+┃ .setppbot
+┃ .setname
+┃ .block
+┃ .unblock
+╰━━━━━━━━━━━━━━━━━━⬣
+
+╭━━━〔 👥 GROUP MENU 〕━━━⬣
+┃ .tagall
+┃ .hidetag
+┃ .kick
+┃ .add
+┃ .promote
+┃ .demote
+┃ .mute
+┃ .unmute
+╰━━━━━━━━━━━━━━━━━━⬣
+
+╭━━━〔 🎮 FUN MENU 〕━━━⬣
+┃ .quote
+┃ .joke
+┃ .truth
+┃ .dare
+┃ .fact
+┃ .meme
+╰━━━━━━━━━━━━━━━━━━⬣
+
+╭━━━〔 🛠️ UTILITY MENU 〕━━━⬣
+┃ .weather
+┃ .time
+┃ .translate
+┃ .calc
+┃ .qr
+┃ .shorturl
+╰━━━━━━━━━━━━━━━━━━⬣
+
+╭━━━〔 💎 BOT-CHIKU 〕━━━⬣
+┃ Owner : 𝐂ʜɪᴋᴜ×͜×𝕏ʜᴏᴡᴅʜᴜʀʏ
+┃ Status : Online ✅
+┃ Version : v1.0.0
+╰━━━━━━━━━━━━━━━━━━⬣
